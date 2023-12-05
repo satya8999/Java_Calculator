@@ -1,0 +1,3 @@
+Get the data from user...
+Subtract the second number from the first number 
+Return the final result
